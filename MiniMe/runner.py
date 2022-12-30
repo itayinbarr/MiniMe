@@ -1,7 +1,5 @@
 from back import *
 from preprocess import *
-
-# Run this file to start the software
 # ---------------------------
 
 # Introduction

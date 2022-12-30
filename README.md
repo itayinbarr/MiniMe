@@ -9,12 +9,6 @@ Let's wonder if the sequence is made by this model, or specifically me?
 
 This project is a demonstration of a RNN text generator.
 
-Demo video
-------------
-
-### Frontend Overview
-
-![Demo](./textsensedemo.gif?raw=true)
 
 Getting Started
 ------------
