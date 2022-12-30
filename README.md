@@ -1,7 +1,7 @@
 TextSense
 ==============================
 
-A recurrent neural network model I trained, in attempt to challenge my friends to 
+A recurrent neural network model I created & trained, in attempt to challenge my friends to 
 an advanced Turing test.
 
 Rather than asking if a sequence of text is made up by a man or machine,
