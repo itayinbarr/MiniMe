@@ -1,4 +1,4 @@
-TextSense
+MiniMe
 ==============================
 
 A recurrent neural network model I created & trained, in attempt to challenge my friends to 
